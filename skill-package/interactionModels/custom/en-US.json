@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "change me",
+      "invocationName": "apple reminder",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -40,5 +40,5 @@
       "types": []
     }
   },
-  "version": "1"
+  "version": "2"
 }
